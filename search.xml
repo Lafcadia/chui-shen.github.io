@@ -14,9 +14,9 @@
       
         <tags>
             
-            <tag> 写作 </tag>
-            
             <tag> 白银树之恋 </tag>
+            
+            <tag> 写作 </tag>
             
         </tags>
       
@@ -35,9 +35,9 @@
       
         <tags>
             
-            <tag> 写作 </tag>
-            
             <tag> 白银树之恋 </tag>
+            
+            <tag> 写作 </tag>
             
         </tags>
       
@@ -56,9 +56,9 @@
       
         <tags>
             
-            <tag> 写作 </tag>
-            
             <tag> 白银树之恋 </tag>
+            
+            <tag> 写作 </tag>
             
         </tags>
       
@@ -117,9 +117,9 @@
       
         <tags>
             
-            <tag> 写作 </tag>
-            
             <tag> 白银树之恋 </tag>
+            
+            <tag> 写作 </tag>
             
         </tags>
       
@@ -138,9 +138,9 @@
       
         <tags>
             
-            <tag> 写作 </tag>
-            
             <tag> 白银树之恋 </tag>
+            
+            <tag> 写作 </tag>
             
         </tags>
       
@@ -159,9 +159,9 @@
       
         <tags>
             
-            <tag> 写作 </tag>
-            
             <tag> 白银树之恋 </tag>
+            
+            <tag> 写作 </tag>
             
         </tags>
       
@@ -180,9 +180,9 @@
       
         <tags>
             
-            <tag> 写作 </tag>
-            
             <tag> 白银树之恋 </tag>
+            
+            <tag> 写作 </tag>
             
         </tags>
       
@@ -201,9 +201,9 @@
       
         <tags>
             
-            <tag> 写作 </tag>
-            
             <tag> 白银树之恋 </tag>
+            
+            <tag> 写作 </tag>
             
         </tags>
       
@@ -285,9 +285,9 @@
       
         <tags>
             
-            <tag> 写作 </tag>
-            
             <tag> 白银树之恋 </tag>
+            
+            <tag> 写作 </tag>
             
         </tags>
       
@@ -411,9 +411,9 @@
       
         <tags>
             
-            <tag> 写作 </tag>
-            
             <tag> 白银树之恋 </tag>
+            
+            <tag> 写作 </tag>
             
         </tags>
       
@@ -432,9 +432,9 @@
       
         <tags>
             
-            <tag> 写作 </tag>
-            
             <tag> 白银树之恋 </tag>
+            
+            <tag> 写作 </tag>
             
         </tags>
       
@@ -453,9 +453,9 @@
       
         <tags>
             
-            <tag> 写作 </tag>
-            
             <tag> 白银树之恋 </tag>
+            
+            <tag> 写作 </tag>
             
         </tags>
       
@@ -474,9 +474,9 @@
       
         <tags>
             
-            <tag> 写作 </tag>
-            
             <tag> 白银树之恋 </tag>
+            
+            <tag> 写作 </tag>
             
         </tags>
       
@@ -535,9 +535,9 @@
       
         <tags>
             
-            <tag> 写作 </tag>
-            
             <tag> 白银树之恋 </tag>
+            
+            <tag> 写作 </tag>
             
         </tags>
       
@@ -733,6 +733,27 @@
     
     
     <entry>
+      <title>利用Flask和Captcha制作简单的验证码生成器</title>
+      <link href="/01/FlaskCaptcha.html"/>
+      <url>/01/FlaskCaptcha.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="一、前言与废话"><a href="#一、前言与废话" class="headerlink" title="一、前言与废话"></a>一、前言与废话</h2><p>多年之前，我曾经给土土发过一个神奇的本地验证码生成器。当时我有一个习惯，写什么都要加个GUI，但是因为我想想觉得验证码生成器没必要有GUI，所以就没写。但是我写了一个叫BabyMode的函数，这个函数其实很简单，就是在Module无法导入的时候把所有模块全都下载安装一遍（用pip）。这个函数后来成为了我们俩之间的梗。</p><p>土土后来写了一个Flask实现的验证码生成器，我觉得自己很菜，连Flask都不会还学个啥Python，所以我当天就写出了验证码生成器（话说这样不算内卷吧），还学会了很多东西，果然竞争的存在是提高自己学习能力的必要条件。</p><h2 id="二、代码"><a href="#二、代码" class="headerlink" title="二、代码"></a>二、代码</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> captcha.image <span class="keyword">import</span> ImageCaptcha</span><br><span class="line"><span class="keyword">from</span> flask <span class="keyword">import</span> Flask, render_template, request</span><br><span class="line"><span class="keyword">import</span> string</span><br><span class="line"><span class="keyword">import</span> random</span><br><span class="line"></span><br><span class="line">app = Flask(__name__)</span><br><span class="line">imgsrc = <span class="string">&#x27;&lt;img src=&quot;https://www.z4a.net/images/2022/05/03/%s.png&quot; loading=&quot;eager&quot; border=&quot;0&quot;&gt;&#x27;</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">generator</span>(<span class="params">name=<span class="string">&quot;code.png&quot;</span></span>):<span class="comment">#ImageCaptcha库实现的验证码生成，之前和土土用的是我自己写的算法，回头看看不堪入目</span></span><br><span class="line">    token = string.digits + string.ascii_letters</span><br><span class="line">    cap = random.sample(token,<span class="number">8</span>)</span><br><span class="line">    token_str = <span class="string">&#x27;&#x27;</span>.join(cap)</span><br><span class="line">    img = ImageCaptcha(width=<span class="number">400</span>,height=<span class="number">150</span>)</span><br><span class="line">    image = img.generate_image(token_str)</span><br><span class="line">    image.save(name)</span><br><span class="line">    <span class="keyword">return</span> token_str</span><br><span class="line"></span><br><span class="line"><span class="meta">@app.route(<span class="params"><span class="string">&#x27;/&#x27;</span>, methods=[<span class="string">&#x27;GET&#x27;</span>,<span class="string">&#x27;POST&#x27;</span>]</span>)</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">index</span>():</span><br><span class="line">  <span class="comment">#index.html，分GET和POST，我把输入验证码和验证码正确错误的返回坐在一起了，debug的时候只需要重新进入网页就可以重新开始测试</span></span><br><span class="line">    <span class="keyword">global</span> real_str</span><br><span class="line">    <span class="keyword">if</span> request.method == <span class="string">&#x27;POST&#x27;</span>:</span><br><span class="line">        result = request.form</span><br><span class="line">        r = result.get(<span class="string">&#x27;yanzheng&#x27;</span>).lower() == real_str.lower()</span><br><span class="line">        <span class="keyword">if</span> r:</span><br><span class="line">            <span class="keyword">return</span> imgsrc % <span class="string">&#x27;183127ad86d33bc4a.md&#x27;</span></span><br><span class="line">        <span class="keyword">else</span>:</span><br><span class="line">            <span class="keyword">return</span> imgsrc % <span class="string">&#x27;2731445bae82f42e5&#x27;</span></span><br><span class="line">    <span class="keyword">else</span>:</span><br><span class="line">        <span class="keyword">with</span> <span class="built_in">open</span>(<span class="string">&quot;index.html&quot;</span>) <span class="keyword">as</span> f:</span><br><span class="line">            content = f.read()</span><br><span class="line">        <span class="keyword">return</span> content</span><br><span class="line"></span><br><span class="line"><span class="meta">@app.route(<span class="params"><span class="string">&#x27;/code.png&#x27;</span></span>)</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">view</span>():<span class="comment">#显示code.png，其实这个函数写的很烂，会的都知道可以怎么写来提升代码整体质量</span></span><br><span class="line">    <span class="keyword">global</span> real_str</span><br><span class="line">    real_str = generator()</span><br><span class="line">    <span class="keyword">with</span> <span class="built_in">open</span>(<span class="string">&#x27;code.png&#x27;</span>, <span class="string">&#x27;rb&#x27;</span>) <span class="keyword">as</span> f:</span><br><span class="line">        content = f.read()</span><br><span class="line">    <span class="keyword">return</span> content</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> __name__ == <span class="string">&#x27;__main__&#x27;</span>:</span><br><span class="line">    app.run(host=<span class="string">&#x27;127.0.0.1&#x27;</span>,port=<span class="string">&#x27;2333&#x27;</span>) <span class="comment">#启动服务器</span></span><br></pre></td></tr></table></figure><h2 id="三、使用方法"><a href="#三、使用方法" class="headerlink" title="三、使用方法"></a>三、使用方法</h2><p>打开程序，打开浏览器，输入localhost:2333。</p><p>或者你是一个聪明人，你可以从代码或者注释中自己找到该干嘛。</p><p>如果是大佬的话，那我只能说，这篇文章对您几乎毫无营养，如果您不喜欢这种风格的代码分享，请慎重考虑要不要继续浏览本博客的其他内容。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+            <tag> 编程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>利用Flask和ffmpeg制作简单的音乐转换器</title>
       <link href="/01/FlaskAudio.html"/>
       <url>/01/FlaskAudio.html</url>
@@ -759,27 +780,6 @@
       <url>/01/GUIedRandom.html</url>
       
         <content type="html"><![CDATA[<h2 id="一、前言与废话"><a href="#一、前言与废话" class="headerlink" title="一、前言与废话"></a>一、前言与废话</h2><p>这次是我在学校里写的，所以没有我和土土的废话。</p><p>我感觉我透过镜子看事物，仿佛一切都是那么的真实，但是却触摸不到事情的本质，因此，这镜子使我目盲。</p><p>直到我发现这镜子是我眼睛中的晶状体。</p><h2 id="二、代码（主体部分）"><a href="#二、代码（主体部分）" class="headerlink" title="二、代码（主体部分）"></a>二、代码（主体部分）</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> random</span><br><span class="line"><span class="keyword">import</span> sys</span><br><span class="line"><span class="keyword">from</span> PySide6.QtWidgets <span class="keyword">import</span> QApplication, QMainWindow</span><br><span class="line"><span class="keyword">from</span> PySide6 <span class="keyword">import</span> QtCore</span><br><span class="line"><span class="keyword">from</span> ui <span class="keyword">import</span> Ui_MainWindow</span><br><span class="line"></span><br><span class="line">QtCore.QCoreApplication.setAttribute(QtCore.Qt.AA_EnableHighDpiScaling)</span><br><span class="line"></span><br><span class="line"><span class="keyword">class</span> <span class="title class_">MainWindow</span>(<span class="title class_ inherited__">QMainWindow</span>):</span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">__init__</span>(<span class="params">self</span>):</span><br><span class="line">        <span class="built_in">super</span>(MainWindow, self).__init__()</span><br><span class="line">        self.ui = Ui_MainWindow()</span><br><span class="line">        self.ui.setupUi(self)</span><br><span class="line">        self.ui.pushButton.clicked.connect(self.solve)</span><br><span class="line"></span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">solve</span>(<span class="params">self</span>):</span><br><span class="line">        num = <span class="built_in">int</span>(self.ui.inputer.toPlainText())</span><br><span class="line">        <span class="keyword">with</span> <span class="built_in">open</span>(<span class="string">&#x27;bonus.txt&#x27;</span>) <span class="keyword">as</span> f:</span><br><span class="line">            data = f.read().split(<span class="string">&#x27;\n&#x27;</span>)</span><br><span class="line">        samples = random.sample(data, num)</span><br><span class="line">        self.ui.outputer.setText(<span class="string">&quot;;&quot;</span>.join(samples))</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> __name__ == <span class="string">&quot;__main__&quot;</span>:</span><br><span class="line">    app = QApplication(sys.argv)</span><br><span class="line">    window = MainWindow()</span><br><span class="line">    window.show()</span><br><span class="line">    sys.exit(app.exec_())</span><br></pre></td></tr></table></figure><p>写这个的时候，在听的是“飞翔在空中的不可思议的巫女的每日”。真是美妙的曲子，让人感觉卸下了眼睛，只用耳朵感受天空的世界。</p><h2 id="三、UI部分"><a href="#三、UI部分" class="headerlink" title="三、UI部分"></a>三、UI部分</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># -*- coding: utf-8 -*-</span></span><br><span class="line"></span><br><span class="line"><span class="comment">################################################################################</span></span><br><span class="line"><span class="comment">## Form generated from reading UI file &#x27;untitled.ui&#x27;</span></span><br><span class="line"><span class="comment">##</span></span><br><span class="line"><span class="comment">## Created by: Qt User Interface Compiler version 5.15.2</span></span><br><span class="line"><span class="comment">##</span></span><br><span class="line"><span class="comment">## WARNING! All changes made in this file will be lost when recompiling UI file!</span></span><br><span class="line"><span class="comment">################################################################################</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">from</span> PySide6.QtCore <span class="keyword">import</span> *</span><br><span class="line"><span class="keyword">from</span> PySide6.QtGui <span class="keyword">import</span> *</span><br><span class="line"><span class="keyword">from</span> PySide6.QtWidgets <span class="keyword">import</span> *</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">class</span> <span class="title class_">Ui_MainWindow</span>(<span class="title class_ inherited__">object</span>):</span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">setupUi</span>(<span class="params">self, MainWindow</span>):</span><br><span class="line">        <span class="keyword">if</span> <span class="keyword">not</span> MainWindow.objectName():</span><br><span class="line">            MainWindow.setObjectName(<span class="string">u&quot;MainWindow&quot;</span>)</span><br><span class="line">        MainWindow.resize(<span class="number">500</span>, <span class="number">368</span>)</span><br><span class="line">        self.centralwidget = QWidget(MainWindow)</span><br><span class="line">        self.centralwidget.setObjectName(<span class="string">u&quot;centralwidget&quot;</span>)</span><br><span class="line">        self.label = QLabel(self.centralwidget)</span><br><span class="line">        self.label.setObjectName(<span class="string">u&quot;label&quot;</span>)</span><br><span class="line">        self.label.setGeometry(QRect(<span class="number">9</span>, <span class="number">9</span>, <span class="number">192</span>, <span class="number">72</span>))</span><br><span class="line">        font = QFont()</span><br><span class="line">        font.setFamily(<span class="string">u&quot;\u54e5\u7279\u5f0f\u5b57\u4f53&quot;</span>)</span><br><span class="line">        font.setPointSize(<span class="number">48</span>)</span><br><span class="line">        self.label.setFont(font)</span><br><span class="line">        self.pushButton = QPushButton(self.centralwidget)</span><br><span class="line">        self.pushButton.setObjectName(<span class="string">u&quot;pushButton&quot;</span>)</span><br><span class="line">        self.pushButton.setGeometry(QRect(<span class="number">11</span>, <span class="number">308</span>, <span class="number">481</span>, <span class="number">34</span>))</span><br><span class="line">        font1 = QFont()</span><br><span class="line">        font1.setFamily(<span class="string">u&quot;\u65b9\u6b63\u7c97\u9ed1\u5b8b\u7b80\u4f53&quot;</span>)</span><br><span class="line">        font1.setPointSize(<span class="number">16</span>)</span><br><span class="line">        self.pushButton.setFont(font1)</span><br><span class="line">        self.outputer = QTextBrowser(self.centralwidget)</span><br><span class="line">        self.outputer.setObjectName(<span class="string">u&quot;outputer&quot;</span>)</span><br><span class="line">        self.outputer.setGeometry(QRect(<span class="number">10</span>, <span class="number">201</span>, <span class="number">482</span>, <span class="number">101</span>))</span><br><span class="line">        font2 = QFont()</span><br><span class="line">        font2.setFamily(<span class="string">u&quot;8514oem&quot;</span>)</span><br><span class="line">        font2.setPointSize(<span class="number">28</span>)</span><br><span class="line">        self.outputer.setFont(font2)</span><br><span class="line">        self.outputer.setCursorWidth(<span class="number">0</span>)</span><br><span class="line">        self.label_2 = QLabel(self.centralwidget)</span><br><span class="line">        self.label_2.setObjectName(<span class="string">u&quot;label_2&quot;</span>)</span><br><span class="line">        self.label_2.setGeometry(QRect(<span class="number">9</span>, <span class="number">87</span>, <span class="number">120</span>, <span class="number">25</span>))</span><br><span class="line">        font3 = QFont()</span><br><span class="line">        font3.setFamily(<span class="string">u&quot;\u65b9\u6b63\u7c97\u9ed1\u5b8b\u7b80\u4f53&quot;</span>)</span><br><span class="line">        font3.setPointSize(<span class="number">15</span>)</span><br><span class="line">        self.label_2.setFont(font3)</span><br><span class="line">        self.inputer = QPlainTextEdit(self.centralwidget)</span><br><span class="line">        self.inputer.setObjectName(<span class="string">u&quot;inputer&quot;</span>)</span><br><span class="line">        self.inputer.setGeometry(QRect(<span class="number">9</span>, <span class="number">118</span>, <span class="number">482</span>, <span class="number">41</span>))</span><br><span class="line">        self.label_3 = QLabel(self.centralwidget)</span><br><span class="line">        self.label_3.setObjectName(<span class="string">u&quot;label_3&quot;</span>)</span><br><span class="line">        self.label_3.setGeometry(QRect(<span class="number">10</span>, <span class="number">170</span>, <span class="number">120</span>, <span class="number">25</span>))</span><br><span class="line">        self.label_3.setFont(font3)</span><br><span class="line">        MainWindow.setCentralWidget(self.centralwidget)</span><br><span class="line">        self.statusbar = QStatusBar(MainWindow)</span><br><span class="line">        self.statusbar.setObjectName(<span class="string">u&quot;statusbar&quot;</span>)</span><br><span class="line">        MainWindow.setStatusBar(self.statusbar)</span><br><span class="line"></span><br><span class="line">        self.retranslateUi(MainWindow)</span><br><span class="line"></span><br><span class="line">        QMetaObject.connectSlotsByName(MainWindow)</span><br><span class="line">    <span class="comment"># setupUi</span></span><br><span class="line"></span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">retranslateUi</span>(<span class="params">self, MainWindow</span>):</span><br><span class="line">        MainWindow.setWindowTitle(QCoreApplication.translate(<span class="string">&quot;MainWindow&quot;</span>, <span class="string">u&quot;\u6447\u4eba\u673a&quot;</span>, <span class="literal">None</span>))</span><br><span class="line">        self.label.setText(QCoreApplication.translate(<span class="string">&quot;MainWindow&quot;</span>, <span class="string">u&quot;\u6447\u4eba\u673a&quot;</span>, <span class="literal">None</span>))</span><br><span class="line">        self.pushButton.setText(QCoreApplication.translate(<span class="string">&quot;MainWindow&quot;</span>, <span class="string">u&quot;\u6447\u4eba\u55bd&quot;</span>, <span class="literal">None</span>))</span><br><span class="line">        self.label_2.setText(QCoreApplication.translate(<span class="string">&quot;MainWindow&quot;</span>, <span class="string">u&quot;\u8981\u6447\u51e0\u4e2a\u4eba\uff1a&quot;</span>, <span class="literal">None</span>))</span><br><span class="line">        self.label_3.setText(QCoreApplication.translate(<span class="string">&quot;MainWindow&quot;</span>, <span class="string">u&quot;\u6447\u51fa\u6765\u7684\u4eba\uff1a&quot;</span>, <span class="literal">None</span>))</span><br><span class="line">    <span class="comment"># retranslateUi</span></span><br></pre></td></tr></table></figure><h2 id="四、末语"><a href="#四、末语" class="headerlink" title="四、末语"></a>四、末语</h2><p>土土在帮我测试代码的时候，因为他使用的是装载M1芯片的MacBook Air，装不了PySide2，所以我把所有的PySide2改成了PySide6。</p><p>代码照常运行。（neta自《太阳照常升起》）</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> Python </tag>
-            
-            <tag> 编程 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>利用Flask和Captcha制作简单的验证码生成器</title>
-      <link href="/01/FlaskCaptcha.html"/>
-      <url>/01/FlaskCaptcha.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="一、前言与废话"><a href="#一、前言与废话" class="headerlink" title="一、前言与废话"></a>一、前言与废话</h2><p>多年之前，我曾经给土土发过一个神奇的本地验证码生成器。当时我有一个习惯，写什么都要加个GUI，但是因为我想想觉得验证码生成器没必要有GUI，所以就没写。但是我写了一个叫BabyMode的函数，这个函数其实很简单，就是在Module无法导入的时候把所有模块全都下载安装一遍（用pip）。这个函数后来成为了我们俩之间的梗。</p><p>土土后来写了一个Flask实现的验证码生成器，我觉得自己很菜，连Flask都不会还学个啥Python，所以我当天就写出了验证码生成器（话说这样不算内卷吧），还学会了很多东西，果然竞争的存在是提高自己学习能力的必要条件。</p><h2 id="二、代码"><a href="#二、代码" class="headerlink" title="二、代码"></a>二、代码</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> captcha.image <span class="keyword">import</span> ImageCaptcha</span><br><span class="line"><span class="keyword">from</span> flask <span class="keyword">import</span> Flask, render_template, request</span><br><span class="line"><span class="keyword">import</span> string</span><br><span class="line"><span class="keyword">import</span> random</span><br><span class="line"></span><br><span class="line">app = Flask(__name__)</span><br><span class="line">imgsrc = <span class="string">&#x27;&lt;img src=&quot;https://www.z4a.net/images/2022/05/03/%s.png&quot; loading=&quot;eager&quot; border=&quot;0&quot;&gt;&#x27;</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">generator</span>(<span class="params">name=<span class="string">&quot;code.png&quot;</span></span>):<span class="comment">#ImageCaptcha库实现的验证码生成，之前和土土用的是我自己写的算法，回头看看不堪入目</span></span><br><span class="line">    token = string.digits + string.ascii_letters</span><br><span class="line">    cap = random.sample(token,<span class="number">8</span>)</span><br><span class="line">    token_str = <span class="string">&#x27;&#x27;</span>.join(cap)</span><br><span class="line">    img = ImageCaptcha(width=<span class="number">400</span>,height=<span class="number">150</span>)</span><br><span class="line">    image = img.generate_image(token_str)</span><br><span class="line">    image.save(name)</span><br><span class="line">    <span class="keyword">return</span> token_str</span><br><span class="line"></span><br><span class="line"><span class="meta">@app.route(<span class="params"><span class="string">&#x27;/&#x27;</span>, methods=[<span class="string">&#x27;GET&#x27;</span>,<span class="string">&#x27;POST&#x27;</span>]</span>)</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">index</span>():</span><br><span class="line">  <span class="comment">#index.html，分GET和POST，我把输入验证码和验证码正确错误的返回坐在一起了，debug的时候只需要重新进入网页就可以重新开始测试</span></span><br><span class="line">    <span class="keyword">global</span> real_str</span><br><span class="line">    <span class="keyword">if</span> request.method == <span class="string">&#x27;POST&#x27;</span>:</span><br><span class="line">        result = request.form</span><br><span class="line">        r = result.get(<span class="string">&#x27;yanzheng&#x27;</span>).lower() == real_str.lower()</span><br><span class="line">        <span class="keyword">if</span> r:</span><br><span class="line">            <span class="keyword">return</span> imgsrc % <span class="string">&#x27;183127ad86d33bc4a.md&#x27;</span></span><br><span class="line">        <span class="keyword">else</span>:</span><br><span class="line">            <span class="keyword">return</span> imgsrc % <span class="string">&#x27;2731445bae82f42e5&#x27;</span></span><br><span class="line">    <span class="keyword">else</span>:</span><br><span class="line">        <span class="keyword">with</span> <span class="built_in">open</span>(<span class="string">&quot;index.html&quot;</span>) <span class="keyword">as</span> f:</span><br><span class="line">            content = f.read()</span><br><span class="line">        <span class="keyword">return</span> content</span><br><span class="line"></span><br><span class="line"><span class="meta">@app.route(<span class="params"><span class="string">&#x27;/code.png&#x27;</span></span>)</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">view</span>():<span class="comment">#显示code.png，其实这个函数写的很烂，会的都知道可以怎么写来提升代码整体质量</span></span><br><span class="line">    <span class="keyword">global</span> real_str</span><br><span class="line">    real_str = generator()</span><br><span class="line">    <span class="keyword">with</span> <span class="built_in">open</span>(<span class="string">&#x27;code.png&#x27;</span>, <span class="string">&#x27;rb&#x27;</span>) <span class="keyword">as</span> f:</span><br><span class="line">        content = f.read()</span><br><span class="line">    <span class="keyword">return</span> content</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> __name__ == <span class="string">&#x27;__main__&#x27;</span>:</span><br><span class="line">    app.run(host=<span class="string">&#x27;127.0.0.1&#x27;</span>,port=<span class="string">&#x27;2333&#x27;</span>) <span class="comment">#启动服务器</span></span><br></pre></td></tr></table></figure><h2 id="三、使用方法"><a href="#三、使用方法" class="headerlink" title="三、使用方法"></a>三、使用方法</h2><p>打开程序，打开浏览器，输入localhost:2333。</p><p>或者你是一个聪明人，你可以从代码或者注释中自己找到该干嘛。</p><p>如果是大佬的话，那我只能说，这篇文章对您几乎毫无营养，如果您不喜欢这种风格的代码分享，请慎重考虑要不要继续浏览本博客的其他内容。</p>]]></content>
       
       
       
