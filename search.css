@@ -1,0 +1,81 @@
+.search {
+    position: relative;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding: 5px;
+    padding-left: 0;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    font-size: 0.9375rem;
+    background: none;
+    display: block;
+    line-height: 1.6;
+}
+/* 
+.search[type=baidu] {
+    border-left: 4px solid #09aaff;
+}
+
+.search[type=baidu]::before {
+    color: #09aaff;
+}
+
+.search[type=google] {
+    border-left: 4px solid #29ff78;
+}
+
+.search[type=google]::before {
+    color: #29ff78;
+}
+
+.search[type=sogou] {
+    border-left: 4px solid #f87dff;
+}
+
+.search[type=sogou]::before {
+    color: #f87dff;
+}
+
+.search[type=S360] {
+    border-left: 4px solid #007c32;
+}
+
+.search[type=S360]::before {
+    color: #007c32;
+}
+
+.search[type=bing] {
+    border-left: 4px solid #fcb523;
+}
+
+.search[type=bing]::before {
+    color: #fcb523;
+}
+
+.search[type=github] {
+    border-left: 4px solid black;
+}
+
+.search[type=github]::before {
+    color: black;
+}
+
+.search[type=yandex] {
+    border-left: 4px solid rgb(255, 32, 99);
+}
+
+.search[type=yandex]::before {
+    color: rgb(255, 32, 99);
+} */
+
+.search::before {
+    position: absolute;
+    top: calc(50% - 24px * 0.5);
+    left: 4px;
+    width: 24px;
+    height: 24px;
+    text-align: center;
+    font-weight: 600;
+    line-height: 24px;
+    vertical-align: middle;
+}
