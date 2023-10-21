@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://chuishen.xyz/01/46years.html</loc>
+        <lastmod>2023-10-14T10:46:18.204Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://chuishen.xyz/01/WhatAmIDoing.html</loc>
         <lastmod>2023-10-10T08:56:47.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -179,14 +187,6 @@
     <url>
         <loc>https://chuishen.xyz/01/LinearGod1.html</loc>
         <lastmod>2022-09-17T14:46:01.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://chuishen.xyz/01/46years.html</loc>
-        <lastmod>2022-09-11T14:03:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
