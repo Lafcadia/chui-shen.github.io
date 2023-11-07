@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://chuishen.xyz/01/FindingOccultism.html</loc>
+        <lastmod>2023-11-04T04:40:07.063Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://chuishen.xyz/01/WordsWordsWords.html</loc>
         <lastmod>2023-10-21T09:35:57.551Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -203,14 +211,6 @@
     <url>
         <loc>https://chuishen.xyz/01/IdeaOfOblivionOcean.html</loc>
         <lastmod>2022-09-09T13:38:32.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://chuishen.xyz/01/FindingOccultism.html</loc>
-        <lastmod>2022-08-28T05:07:38.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
