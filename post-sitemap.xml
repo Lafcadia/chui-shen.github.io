@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>https://chuishen.xyz/01/DanseMacabre.html</loc>
+        <lastmod>2023-11-10T13:16:03.033Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://chuishen.xyz/01/FakeLie.html</loc>
+        <lastmod>2023-11-10T13:15:32.618Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://chuishen.xyz/01/FindingOccultism.html</loc>
         <lastmod>2023-11-04T04:40:07.063Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -91,14 +107,6 @@
     <url>
         <loc>https://chuishen.xyz/01/TheKnightTheDemonTheJoker.html</loc>
         <lastmod>2023-09-10T02:35:53.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://chuishen.xyz/01/FakeLie.html</loc>
-        <lastmod>2023-09-10T02:32:45.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
