@@ -6,7 +6,7 @@
   <link href="https://chuishen.xyz/atom.xml" rel="self"/>
   
   <link href="https://chuishen.xyz/"/>
-  <updated>2023-11-11T06:26:01.143Z</updated>
+  <updated>2023-11-11T06:27:44.356Z</updated>
   <id>https://chuishen.xyz/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://chuishen.xyz/01/CrystallizedNight.html"/>
     <id>https://chuishen.xyz/01/CrystallizedNight.html</id>
     <published>2023-11-11T00:37:23.000Z</published>
-    <updated>2023-11-11T06:26:01.143Z</updated>
+    <updated>2023-11-11T06:27:44.356Z</updated>
     
     
       
@@ -390,11 +390,11 @@
     
     
     
-    <category term="闲聊" scheme="https://chuishen.xyz/tags/%E9%97%B2%E8%81%8A/"/>
-    
     <category term="特殊" scheme="https://chuishen.xyz/tags/%E7%89%B9%E6%AE%8A/"/>
     
     <category term="调研" scheme="https://chuishen.xyz/tags/%E8%B0%83%E7%A0%94/"/>
+    
+    <category term="闲聊" scheme="https://chuishen.xyz/tags/%E9%97%B2%E8%81%8A/"/>
     
   </entry>
   
