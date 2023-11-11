@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://chuishen.xyz/series/</loc>
+        <lastmod>2023-11-11T06:44:54.294Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://chuishen.xyz/about/</loc>
         <lastmod>2023-11-11T06:36:33.979Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -21,15 +30,6 @@
     <url>
         <loc>https://chuishen.xyz/404.html</loc>
         <lastmod>2023-10-10T09:23:43.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://chuishen.xyz/series/</loc>
-        <lastmod>2023-09-29T07:21:41.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
