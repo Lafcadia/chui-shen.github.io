@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://chuishen.xyz/01/%E2%9A%AA.html</loc>
+        <lastmod>2023-12-16T10:43:55.017Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://chuishen.xyz/01/Midnightmare.html</loc>
         <lastmod>2023-12-02T05:04:55.459Z</lastmod>
         <changefreq>weekly</changefreq>
