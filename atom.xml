@@ -6,7 +6,7 @@
   <link href="https://chuishen.xyz/atom.xml" rel="self"/>
   
   <link href="https://chuishen.xyz/"/>
-  <updated>2024-03-16T12:57:13.717Z</updated>
+  <updated>2024-03-16T13:27:50.587Z</updated>
   <id>https://chuishen.xyz/</id>
   
   <author>
@@ -17,15 +17,14 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>脚本哲学(1) Minecraft 服务器区块与备份脚本</title>
-    <link href="https://chuishen.xyz/01/PhiloScriptPart1.html"/>
-    <id>https://chuishen.xyz/01/PhiloScriptPart1.html</id>
-    <published>2024-03-16T10:42:30.000Z</published>
-    <updated>2024-03-16T12:57:13.717Z</updated>
+    <title>脚本哲学(2) WaterMello, 一款壬性化的《合成大西瓜》启动器</title>
+    <link href="https://chuishen.xyz/01/PhiloScriptPart2.html"/>
+    <id>https://chuishen.xyz/01/PhiloScriptPart2.html</id>
+    <published>2024-03-16T10:43:00.000Z</published>
+    <updated>2024-03-16T13:27:50.587Z</updated>
     
     
-    <summary type="html">&lt;h2 id=&quot;开始之前&quot;&gt;&lt;a href=&quot;#开始之前&quot; class=&quot;headerlink&quot; title=&quot;开始之前&quot;&gt;&lt;/a&gt;开始之前&lt;/h2&gt;&lt;p&gt;我好久没写技术类的推文了，原因很简单，我有些跟不上大伙的节奏，我技术力过于低下。但仔细想想，发一些技术文章还是可以精进自己的技术的，于是便打算重新开始，于是就有了这么一个新系列，叫做“脚本哲学”。&lt;/p&gt;
-&lt;p&gt;另外，在最新的决定中，我将这个博客分为了三个网站，一个是本站，主要发技术文章；一个是 &lt;a href=&quot;https://legacy.chuishen.xyz/&quot;&gt;Legacy&lt;/a&gt;，是旧物的堆积地；以及 &lt;a href=&quot;https://memoria.top/&quot;&gt;Memoria&lt;/a&gt; ，是我与远冬的文学博客。《御伽之国的鬼岛》《白银树之恋》等文章已被迁至 Legacy。《日记八集》中的部分篇目，已被永久删除。&lt;/p&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;我们学校有一款由某位已经离校的学长开发的，基于《合成大西瓜》代码的，名为“合成校长”的游戏，风靡一时。许多人想要制作一个自定义版本。于是我就决定把这个当作一个脚本来写。&lt;/p&gt;</summary>
     
     
     
@@ -39,14 +38,15 @@
   </entry>
   
   <entry>
-    <title>脚本哲学(2) WaterMello, 一款壬性化的《合成大西瓜》启动器</title>
-    <link href="https://chuishen.xyz/01/PhiloScriptPart2.html"/>
-    <id>https://chuishen.xyz/01/PhiloScriptPart2.html</id>
+    <title>脚本哲学(1) Minecraft 服务器区块与备份脚本</title>
+    <link href="https://chuishen.xyz/01/PhiloScriptPart1.html"/>
+    <id>https://chuishen.xyz/01/PhiloScriptPart1.html</id>
     <published>2024-03-16T10:42:30.000Z</published>
-    <updated>2024-03-16T13:14:52.490Z</updated>
+    <updated>2024-03-16T12:57:13.717Z</updated>
     
     
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;我们学校有一款由某位已经离校的学长开发的，基于《合成大西瓜》代码的，名为“合成校长”的游戏，风靡一时。许多人想要制作一个自定义版本。于是我就决定把这个当作一个脚本来写。&lt;/p&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;开始之前&quot;&gt;&lt;a href=&quot;#开始之前&quot; class=&quot;headerlink&quot; title=&quot;开始之前&quot;&gt;&lt;/a&gt;开始之前&lt;/h2&gt;&lt;p&gt;我好久没写技术类的推文了，原因很简单，我有些跟不上大伙的节奏，我技术力过于低下。但仔细想想，发一些技术文章还是可以精进自己的技术的，于是便打算重新开始，于是就有了这么一个新系列，叫做“脚本哲学”。&lt;/p&gt;
+&lt;p&gt;另外，在最新的决定中，我将这个博客分为了三个网站，一个是本站，主要发技术文章；一个是 &lt;a href=&quot;https://legacy.chuishen.xyz/&quot;&gt;Legacy&lt;/a&gt;，是旧物的堆积地；以及 &lt;a href=&quot;https://memoria.top/&quot;&gt;Memoria&lt;/a&gt; ，是我与远冬的文学博客。《御伽之国的鬼岛》《白银树之恋》等文章已被迁至 Legacy。《日记八集》中的部分篇目，已被永久删除。&lt;/p&gt;</summary>
     
     
     

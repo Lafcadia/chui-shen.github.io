@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://chuishen.xyz/01/PhiloScriptPart2.html</loc>
+        <lastmod>2024-03-16T13:27:50.587Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://chuishen.xyz/01/WordsWordsWords.html</loc>
         <lastmod>2024-03-16T13:20:01.386Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -179,14 +187,6 @@
     <url>
         <loc>https://chuishen.xyz/01/46years.html</loc>
         <lastmod>2024-03-16T13:15:50.757Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://chuishen.xyz/01/PhiloScriptPart2.html</loc>
-        <lastmod>2024-03-16T13:14:52.490Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

@@ -3,22 +3,29 @@
 
 
     <url>
-        <loc>https://chuishen.xyz/tags/%E5%86%99%E4%BD%9C/</loc>
-        <lastmod>2024-03-16T13:20:01.386Z</lastmod>
+        <loc>https://chuishen.xyz/tags/Minecraft/</loc>
+        <lastmod>2024-03-16T13:27:50.587Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://chuishen.xyz/tags/%E7%BC%96%E7%A8%8B/</loc>
-        <lastmod>2024-03-16T13:19:50.901Z</lastmod>
+        <lastmod>2024-03-16T13:27:50.587Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://chuishen.xyz/tags/Python/</loc>
-        <lastmod>2024-03-16T13:19:50.901Z</lastmod>
+        <lastmod>2024-03-16T13:27:50.587Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://chuishen.xyz/tags/%E5%86%99%E4%BD%9C/</loc>
+        <lastmod>2024-03-16T13:20:01.386Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -82,13 +89,6 @@
     <url>
         <loc>https://chuishen.xyz/tags/%E8%AF%97/</loc>
         <lastmod>2024-03-16T13:15:50.757Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://chuishen.xyz/tags/Minecraft/</loc>
-        <lastmod>2024-03-16T13:14:52.490Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
