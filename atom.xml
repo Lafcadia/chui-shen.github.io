@@ -6,7 +6,7 @@
   <link href="https://chuishen.xyz/atom.xml" rel="self"/>
   
   <link href="https://chuishen.xyz/"/>
-  <updated>2024-03-09T12:31:02.280Z</updated>
+  <updated>2024-03-16T11:30:36.860Z</updated>
   <id>https://chuishen.xyz/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>脚本哲学(1) Minecraft 服务器区块与备份脚本</title>
+    <link href="https://chuishen.xyz/01/PhiloScriptPart1.html"/>
+    <id>https://chuishen.xyz/01/PhiloScriptPart1.html</id>
+    <published>2024-03-16T10:42:30.000Z</published>
+    <updated>2024-03-16T11:30:36.860Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;开始之前&quot;&gt;&lt;a href=&quot;#开始之前&quot; class=&quot;headerlink&quot; title=&quot;开始之前&quot;&gt;&lt;/a&gt;开始之前&lt;/h2&gt;&lt;p&gt;我好久没写技术类的推文了，原因很简单，我有些跟不上大伙的节奏，我技术力过于低下。但仔细想想，发一些技术文章还是可以精进自己的技术的，于是便打算重新开始，于是就有了这么一个新系列，叫做“脚本哲学”。&lt;/p&gt;
+&lt;p&gt;另外，在最新的决定中，我将这个博客分为了三个网站，一个是本站，主要发技术文章；一个是 (Legacy)[&lt;a href=&quot;https://legacy.chuishen.xyz/]%EF%BC%8C%E6%98%AF%E6%97%A7%E7%89%A9%E7%9A%84%E5%A0%86%E7%A7%AF%E5%9C%B0%EF%BC%9B%E4%BB%A5%E5%8F%8A&quot;&gt;https://legacy.chuishen.xyz/]，是旧物的堆积地；以及&lt;/a&gt; (Memoria)[&lt;a href=&quot;https://memoria.top/]%EF%BC%8C%E6%98%AF%E6%88%91%E4%B8%8E%E8%BF%9C%E5%86%AC%E7%9A%84%E6%96%87%E5%AD%A6%E5%8D%9A%E5%AE%A2%E3%80%82%E3%80%8A%E5%BE%A1%E4%BC%BD%E4%B9%8B%E5%9B%BD%E7%9A%84%E9%AC%BC%E5%B2%9B%E3%80%8B%E3%80%8A%E7%99%BD%E9%93%B6%E6%A0%91%E4%B9%8B%E6%81%8B%E3%80%8B%E7%AD%89%E6%96%87%E7%AB%A0%E5%B7%B2%E8%A2%AB%E8%BF%81%E8%87%B3&quot;&gt;https://memoria.top/]，是我与远冬的文学博客。《御伽之国的鬼岛》《白银树之恋》等文章已被迁至&lt;/a&gt; Legacy。《日记八集》中的部分篇目，已被永久删除。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Python" scheme="https://chuishen.xyz/tags/Python/"/>
+    
+    <category term="编程" scheme="https://chuishen.xyz/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="Minecraft" scheme="https://chuishen.xyz/tags/Minecraft/"/>
+    
+  </entry>
   
   <entry>
     <title>妄谈 V1C1 施洗者的预言 Answer in the Wind</title>
@@ -474,31 +496,6 @@
     <id>https://chuishen.xyz/01/EMDLPART1.html</id>
     <published>2022-05-15T01:50:34.000Z</published>
     <updated>2022-05-15T02:48:29.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;一、前言与废话&quot;&gt;&lt;a href=&quot;#一、前言与废话&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="Python" scheme="https://chuishen.xyz/tags/Python/"/>
-    
-    <category term="编程" scheme="https://chuishen.xyz/tags/%E7%BC%96%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>利用Flask和Captcha制作简单的验证码生成器</title>
-    <link href="https://chuishen.xyz/01/FlaskCaptcha.html"/>
-    <id>https://chuishen.xyz/01/FlaskCaptcha.html</id>
-    <published>2022-05-14T01:50:34.000Z</published>
-    <updated>2022-05-14T12:13:04.000Z</updated>
     
     
       
