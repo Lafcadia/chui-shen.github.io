@@ -26,10 +26,10 @@ function searching() {
             nW = ';" onclick="window.open(`' + searchesJson[type].url + content + '`, target=`_self`)"';
         }
         searches[i].innerHTML = '<button class="search" style="background-color: '+
-            searches[type].color+
+            searches[i].color+
             nW+
             ';" title="使用"'+
-            searches[type].name+
+            searches[i].name+
             '搜索"><img src="'+searchesJson[type].img+'" height="16" width="16" ></img>'+searchesJson[type].name+'搜索"'+content+'"</button>';
     }
 }
