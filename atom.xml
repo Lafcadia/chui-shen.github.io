@@ -6,7 +6,7 @@
   <link href="https://chuishen.xyz/atom.xml" rel="self"/>
   
   <link href="https://chuishen.xyz/"/>
-  <updated>2024-03-24T02:58:42.627Z</updated>
+  <updated>2024-03-24T04:01:01.008Z</updated>
   <id>https://chuishen.xyz/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JoiningLiterarySociety</title>
+    <link href="https://chuishen.xyz/01/JoiningLiterarySociety.html"/>
+    <id>https://chuishen.xyz/01/JoiningLiterarySociety.html</id>
+    <published>2024-03-24T04:01:00.000Z</published>
+    <updated>2024-03-24T04:01:01.008Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>阿卡迪亚的牧羊人</title>
@@ -64,7 +77,7 @@
     <link href="https://chuishen.xyz/01/PhiloScriptPart1.html"/>
     <id>https://chuishen.xyz/01/PhiloScriptPart1.html</id>
     <published>2024-03-16T10:42:30.000Z</published>
-    <updated>2024-03-16T12:57:13.717Z</updated>
+    <updated>2024-03-24T04:02:41.192Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;开始之前&quot;&gt;&lt;a href=&quot;#开始之前&quot; class=&quot;headerlink&quot; title=&quot;开始之前&quot;&gt;&lt;/a&gt;开始之前&lt;/h2&gt;&lt;p&gt;我好久没写技术类的推文了，原因很简单，我有些跟不上大伙的节奏，我技术力过于低下。但仔细想想，发一些技术文章还是可以精进自己的技术的，于是便打算重新开始，于是就有了这么一个新系列，叫做“脚本哲学”。&lt;/p&gt;
@@ -78,6 +91,8 @@
     <category term="编程" scheme="https://chuishen.xyz/tags/%E7%BC%96%E7%A8%8B/"/>
     
     <category term="Minecraft" scheme="https://chuishen.xyz/tags/Minecraft/"/>
+    
+    <category term="公告" scheme="https://chuishen.xyz/tags/%E5%85%AC%E5%91%8A/"/>
     
   </entry>
   
@@ -375,26 +390,6 @@
     
     
     <summary type="html">&lt;h2 id=&quot;零、紧跟时事&quot;&gt;&lt;a href=&quot;#零、紧跟时事&quot; class=&quot;headerlink&quot; title=&quot;零、紧跟时事&quot;&gt;&lt;/a&gt;零、紧跟时事&lt;/h2&gt;&lt;p&gt;听说WPS塌房了，我的内心没有一丝波澜，毕竟一直在用Markdown写作，但是由于需要，还是要写一个方便的Markdown转换器。主要是为了方便手机阅读，其次则是方便给他人传阅。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="Python" scheme="https://chuishen.xyz/tags/Python/"/>
-    
-    <category term="编程" scheme="https://chuishen.xyz/tags/%E7%BC%96%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>视音频转换器</title>
-    <link href="https://chuishen.xyz/01/VideoAudio.html"/>
-    <id>https://chuishen.xyz/01/VideoAudio.html</id>
-    <published>2022-07-13T13:50:40.000Z</published>
-    <updated>2024-03-16T13:19:50.901Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;零、前言&quot;&gt;&lt;a href=&quot;#零、前言&quot; class=&quot;headerlink&quot; title=&quot;零、前言&quot;&gt;&lt;/a&gt;零、前言&lt;/h2&gt;&lt;p&gt;前面其实说过了，我要做视音频转换器，终于在旅途的车上挤出来了这段代码。&lt;/p&gt;
-&lt;p&gt;土土作为头号测试员（小白鼠），表示非常满意。&lt;/p&gt;</summary>
     
     
     
