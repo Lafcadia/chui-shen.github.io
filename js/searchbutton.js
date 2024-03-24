@@ -28,7 +28,7 @@ function searching() {
             ';" title="'+
             '搜索"><img id="lunar-child" src="'+
             searchesJson[type].img+
-            '" height="1.1rem" width="1.1rem" ></img>'+
+            '" style="width: 1.1rem; height: 1.1rem;" ></img>'+
             '搜索"'+
             content+'"</button>';
     }
