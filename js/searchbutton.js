@@ -29,7 +29,7 @@ function searching() {
             '搜索"><img id="lunar-child" src="'+
             searchesJson[type].img+
             '" style="width: 1.1rem; height: 1.1rem;" ></img>'+
-            '搜索"'+
+            ' 搜索"'+
             content+'"</button>';
     }
 }
