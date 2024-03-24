@@ -1,5 +1,5 @@
-document.getElementsByTagName('style')[0].innerHTML += '.searchbutton {box-sizing: content-box; cursor: pointer; padding: 10px 20px 10px; border-radius: 6px; color: white; font-size: 1.1rem;}'
-    // '#lunar-child {position: absolute; top: 50%; transform: translate(0, -50%);}';
+document.getElementsByTagName('style')[0].innerHTML += '.searchbutton {box-sizing: content-box; cursor: pointer; padding: 10px 20px 10px; border-radius: 6px; color: white; font-size: 1.1rem;}'+
+    '#lunar-child {border-radius:50%; vertical-align: middle;}';
 function searching() {
     var searches = document.getElementsByTagName('search');
     for (var i = 0; i < searches.length; i++) {
@@ -22,7 +22,7 @@ function searching() {
         else {
             nW = ';" onclick="window.open(`' + searchesJson[type].url + content + '`, target=`_self`)"';
         }
-        searches[i].innerHTML = '<button type="button" class="searchbutton" style="background-color: '+
+        searches[i].innerHTML = '<button type="button" class="searchbutton" style="vertical-align: middle; background-color: '+
             searchesJson[type].color+
             nW+
             ';" title="'+
