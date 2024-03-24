@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>https://chuishen.xyz/tags/%E6%98%8E%E6%B2%BB%E5%8D%81%E4%B8%83/</loc>
+        <lastmod>2024-03-24T02:27:00.115Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://chuishen.xyz/tags/%E5%86%99%E4%BD%9C/</loc>
+        <lastmod>2024-03-24T02:27:00.115Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://chuishen.xyz/tags/%E6%91%84%E5%BD%B1/</loc>
         <lastmod>2024-03-23T15:02:40.251Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -26,13 +40,6 @@
     <url>
         <loc>https://chuishen.xyz/tags/Python/</loc>
         <lastmod>2024-03-16T13:27:50.587Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://chuishen.xyz/tags/%E5%86%99%E4%BD%9C/</loc>
-        <lastmod>2024-03-16T13:20:01.386Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -6,7 +6,7 @@
   <link href="https://chuishen.xyz/atom.xml" rel="self"/>
   
   <link href="https://chuishen.xyz/"/>
-  <updated>2024-03-16T13:27:50.587Z</updated>
+  <updated>2024-03-24T02:27:00.115Z</updated>
   <id>https://chuishen.xyz/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>阿卡迪亚的牧羊人</title>
+    <link href="https://chuishen.xyz/01/ArcadianShepherd.html"/>
+    <id>https://chuishen.xyz/01/ArcadianShepherd.html</id>
+    <published>2024-03-24T02:23:28.000Z</published>
+    <updated>2024-03-24T02:27:00.115Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;“列车到站了，先生，欢迎来到阿卡迪亚。”乘务员走进包厢，向詹森·汉弗莱鞠了一躬。&lt;/p&gt;
+&lt;p&gt;汉弗莱转向乘务员，她注意到他的眼角微微湿润，便掏出了一块手帕递给他。&lt;/p&gt;
+&lt;p&gt;“发生了什么事吗，先生？”&lt;/p&gt;
+&lt;p&gt;“没什么，我有时庸人自扰，徒增伤感而已。”&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="写作" scheme="https://chuishen.xyz/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="明治十七" scheme="https://chuishen.xyz/tags/%E6%98%8E%E6%B2%BB%E5%8D%81%E4%B8%83/"/>
+    
+  </entry>
   
   <entry>
     <title>脚本哲学(2) WaterMello, 一款壬性化的《合成大西瓜》启动器</title>
@@ -373,27 +402,6 @@
     
     <summary type="html">&lt;h2 id=&quot;零、前言&quot;&gt;&lt;a href=&quot;#零、前言&quot; class=&quot;headerlink&quot; title=&quot;零、前言&quot;&gt;&lt;/a&gt;零、前言&lt;/h2&gt;&lt;p&gt;前面其实说过了，我要做视音频转换器，终于在旅途的车上挤出来了这段代码。&lt;/p&gt;
 &lt;p&gt;土土作为头号测试员（小白鼠），表示非常满意。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="Python" scheme="https://chuishen.xyz/tags/Python/"/>
-    
-    <category term="编程" scheme="https://chuishen.xyz/tags/%E7%BC%96%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>摇人机2007</title>
-    <link href="https://chuishen.xyz/01/GUIedRandom2.html"/>
-    <id>https://chuishen.xyz/01/GUIedRandom2.html</id>
-    <published>2022-05-15T11:50:34.000Z</published>
-    <updated>2024-03-16T13:18:29.175Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;一、前言与废话&quot;&gt;&lt;a href=&quot;#一、前言与废话&quot; class=&quot;headerlink&quot; title=&quot;一、前言与废话&quot;&gt;&lt;/a&gt;一、前言与废话&lt;/h2&gt;&lt;p&gt;书接&lt;a href=&quot;https://chuishen.xyz/2022/05/14/GUIedRandom/&quot;&gt;上文&lt;/a&gt;。这个玩意被我们班的人玩烂了，我”突发奇想”打算加点功能。&lt;/p&gt;
-&lt;p&gt;上次可能没把这个bonus.txt的功能讲清楚，bonus.txt的每一行都会被读取然后被random.sample函数读取，然后生成随机数。其实本来想要用更加复杂的算法生成抽人动画的，想想觉得没意思。&lt;/p&gt;
-&lt;p&gt;然后这次写了一下初始化（防止bonus.txt不存在）和整数数列生成。&lt;/p&gt;</summary>
     
     
     
