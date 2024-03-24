@@ -1,9 +1,5 @@
-document.getElementsByTagName('style')[0].innerHTML += '.searchbutton {'+
-    'box-sizing: content-box;'+
-    'cursor: pointer;'+
-    'padding: 10px 20px 10px;'+
-    'border-radius: 6px;'+
-    'color: white;}';
+document.getElementsByTagName('style')[0].innerHTML += '.searchbutton {box-sizing: content-box; cursor: pointer; padding: 10px 20px 10px; border-radius: 6px; color: white; font-size: 1.1rem;}'+
+    '#lunar-child {position: absolute; top: 50%; transform: translate(0, -50%);}';
 function searching() {
     var searches = document.getElementsByTagName('search');
     for (var i = 0; i < searches.length; i++) {
@@ -30,9 +26,9 @@ function searching() {
             searchesJson[type].color+
             nW+
             ';" title="'+
-            '搜索"><img src="'+
+            '搜索"><img id="lunar-child" src="'+
             searchesJson[type].img+
-            '" height="16" width="16" ></img>'+
+            '" height="1.1rem" width="1.1rem" ></img>'+
             '搜索"'+
             content+'"</button>';
     }
