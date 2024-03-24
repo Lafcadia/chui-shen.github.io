@@ -1,8 +1,9 @@
-document.getElementsByTagName('head')[0].innerHTML += '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />'+
-    '<style>.search {box-sizing: content-box; cursor: pointer; padding: 10px 20px 10px; border: 1px solid;'+
-    'border-radius: 3px; color: white; font-size: 18px; font-family: "黑体";}</style>'+
-    '<script src="https://kit.fontawesome.com/2d5816cde8.js" crossorigin="anonymous"></script>'+
-    '.1 {content: ""}';
+document.getElementsByTagName('style')[0].innerHTML += '.searchbutton {'+
+    'box-sizing: content-box;'+
+    'cursor: pointer;'+
+    'padding: 10px 20px 10px;'+
+    'border-radius: 6px;'+
+    'color: white;}';
 function searching() {
     var searches = document.getElementsByTagName('search');
     for (var i = 0; i < searches.length; i++) {
@@ -19,13 +20,13 @@ function searching() {
             yandex: {name: 'Yandex', color: 'crimson', url: 'https://yandex.com/search/?text=', img: 'https://yastatic.net/s3/home-static/_/7c/7ccfee6f1e81b14c5bef535d1ad7b7e0.png'}
         }
         var nW = "";
-        if (newWindow == 'false') {
+        if (newWindow == 'true') {
             nW = ';" onclick="window.open(`' + searchesJson[type].url + content + '`)"';
         }
         else {
             nW = ';" onclick="window.open(`' + searchesJson[type].url + content + '`, target=`_self`)"';
         }
-        searches[i].innerHTML = '<button class="search" style="background-color: '+
+        searches[i].innerHTML = '<button type="button" class="searchbutton" style="background-color: '+
             searchesJson[type].color+
             nW+
             ';" title="'+
