@@ -6,7 +6,7 @@
   <link href="https://chuishen.xyz/atom.xml" rel="self"/>
   
   <link href="https://chuishen.xyz/"/>
-  <updated>2024-03-30T08:18:12.107Z</updated>
+  <updated>2024-03-24T04:37:10.862Z</updated>
   <id>https://chuishen.xyz/</id>
   
   <author>
@@ -15,26 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>鸦片与酒的宴会</title>
-    <link href="https://chuishen.xyz/01/LotusEaters.html"/>
-    <id>https://chuishen.xyz/01/LotusEaters.html</id>
-    <published>2024-03-30T02:23:28.000Z</published>
-    <updated>2024-03-30T08:18:12.107Z</updated>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;Act-I-食莲者们的醉与死&quot;&gt;&lt;a href=&quot;#Act-I-食莲者们的醉与死&quot; class=&quot;headerlink&quot; title=&quot;Act I 食莲者们的醉与死&quot;&gt;&lt;/a&gt;Act I 食莲者们的醉与死&lt;/h3&gt;&lt;p&gt;“将军此番来访寒舍，小僧不胜感激，且受小僧先敬为礼。”怀仁和尚转过头示意，诸僧都站起来敬酒。只有一个学僧没站起来，怀仁瞪了他一眼，他却依旧不站。&lt;/p&gt;
-&lt;p&gt;“这位……小僧双腿残疾，恐不能给将军祝酒了。”怀仁只好编一个谎，毕竟不知学僧底细。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="写作" scheme="https://chuishen.xyz/tags/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="明治十七" scheme="https://chuishen.xyz/tags/%E6%98%8E%E6%B2%BB%E5%8D%81%E4%B8%83/"/>
-    
-  </entry>
   
   <entry>
     <title>关于加入天鸡文学社</title>
@@ -405,6 +385,25 @@
     
     
     <category term="摄影" scheme="https://chuishen.xyz/tags/%E6%91%84%E5%BD%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown转换器</title>
+    <link href="https://chuishen.xyz/01/MarkdownConvertion.html"/>
+    <id>https://chuishen.xyz/01/MarkdownConvertion.html</id>
+    <published>2022-07-13T13:51:45.000Z</published>
+    <updated>2024-03-16T13:18:59.369Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;零、紧跟时事&quot;&gt;&lt;a href=&quot;#零、紧跟时事&quot; class=&quot;headerlink&quot; title=&quot;零、紧跟时事&quot;&gt;&lt;/a&gt;零、紧跟时事&lt;/h2&gt;&lt;p&gt;听说WPS塌房了，我的内心没有一丝波澜，毕竟一直在用Markdown写作，但是由于需要，还是要写一个方便的Markdown转换器。主要是为了方便手机阅读，其次则是方便给他人传阅。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Python" scheme="https://chuishen.xyz/tags/Python/"/>
+    
+    <category term="编程" scheme="https://chuishen.xyz/tags/%E7%BC%96%E7%A8%8B/"/>
     
   </entry>
   
