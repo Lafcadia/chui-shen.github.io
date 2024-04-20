@@ -6,7 +6,7 @@
   <link href="https://chuishen.xyz/atom.xml" rel="self"/>
   
   <link href="https://chuishen.xyz/"/>
-  <updated>2024-03-24T04:37:10.862Z</updated>
+  <updated>2024-04-20T12:49:18.977Z</updated>
   <id>https://chuishen.xyz/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>访谈（一）：怀旧情结与梦核美学</title>
+    <link href="https://chuishen.xyz/01/InvisibleInkOne.html"/>
+    <id>https://chuishen.xyz/01/InvisibleInkOne.html</id>
+    <published>2024-04-20T12:16:11.000Z</published>
+    <updated>2024-04-20T12:49:18.977Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;简要来说，这个系列是我与本校同学们的访谈。这次访谈是我在听了本校书籍影像社的公开课《梦核美学》后，为了对于这种美学有着更深入的了解，与社团成员 Branny 进行的一次线上交流。</summary>
+    
+    
+    
+    
+    <category term="无形学会" scheme="https://chuishen.xyz/tags/%E6%97%A0%E5%BD%A2%E5%AD%A6%E4%BC%9A/"/>
+    
+    <category term="访谈" scheme="https://chuishen.xyz/tags/%E8%AE%BF%E8%B0%88/"/>
+    
+  </entry>
   
   <entry>
     <title>关于加入天鸡文学社</title>
@@ -33,6 +52,32 @@
     <category term="写作" scheme="https://chuishen.xyz/tags/%E5%86%99%E4%BD%9C/"/>
     
     <category term="关于我自己" scheme="https://chuishen.xyz/tags/%E5%85%B3%E4%BA%8E%E6%88%91%E8%87%AA%E5%B7%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>人生思考者 Life Thinker</title>
+    <link href="https://chuishen.xyz/01/LifeThinker.html"/>
+    <id>https://chuishen.xyz/01/LifeThinker.html</id>
+    <published>2024-03-24T04:01:00.000Z</published>
+    <updated>2024-04-20T12:17:50.912Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;闲着没事画了一个个人签名。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://chuishen.xyz/LifeThinker3.0.png&quot; alt=&quot;Life Thinker</summary>
+        
+      
+    
+    
+    
+    
+    <category term="关于我自己" scheme="https://chuishen.xyz/tags/%E5%85%B3%E4%BA%8E%E6%88%91%E8%87%AA%E5%B7%B1/"/>
+    
+    <category term="无聊" scheme="https://chuishen.xyz/tags/%E6%97%A0%E8%81%8A/"/>
     
   </entry>
   
@@ -368,42 +413,6 @@
     <category term="写作" scheme="https://chuishen.xyz/tags/%E5%86%99%E4%BD%9C/"/>
     
     <category term="十三而立" scheme="https://chuishen.xyz/tags/%E5%8D%81%E4%B8%89%E8%80%8C%E7%AB%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>The Grimoire of Chuishen ~ 2022摄影集·渝川</title>
-    <link href="https://chuishen.xyz/01/The-Grimoire-of-Chuishen.html"/>
-    <id>https://chuishen.xyz/01/The-Grimoire-of-Chuishen.html</id>
-    <published>2022-08-01T02:31:38.000Z</published>
-    <updated>2024-03-23T15:02:40.251Z</updated>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;一、前言&quot;&gt;&lt;a href=&quot;#一、前言&quot; class=&quot;headerlink&quot; title=&quot;一、前言&quot;&gt;&lt;/a&gt;一、前言&lt;/h1&gt;&lt;p&gt;我的这个摄影集是我去318国道自驾游时拍摄的，对应的游记应该会在8月出来 (2024.3.23 更新: 没出来)。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="摄影" scheme="https://chuishen.xyz/tags/%E6%91%84%E5%BD%B1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Markdown转换器</title>
-    <link href="https://chuishen.xyz/01/MarkdownConvertion.html"/>
-    <id>https://chuishen.xyz/01/MarkdownConvertion.html</id>
-    <published>2022-07-13T13:51:45.000Z</published>
-    <updated>2024-03-16T13:18:59.369Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;零、紧跟时事&quot;&gt;&lt;a href=&quot;#零、紧跟时事&quot; class=&quot;headerlink&quot; title=&quot;零、紧跟时事&quot;&gt;&lt;/a&gt;零、紧跟时事&lt;/h2&gt;&lt;p&gt;听说WPS塌房了，我的内心没有一丝波澜，毕竟一直在用Markdown写作，但是由于需要，还是要写一个方便的Markdown转换器。主要是为了方便手机阅读，其次则是方便给他人传阅。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="Python" scheme="https://chuishen.xyz/tags/Python/"/>
-    
-    <category term="编程" scheme="https://chuishen.xyz/tags/%E7%BC%96%E7%A8%8B/"/>
     
   </entry>
   
