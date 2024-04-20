@@ -6,7 +6,7 @@
   <link href="https://chuishen.xyz/atom.xml" rel="self"/>
   
   <link href="https://chuishen.xyz/"/>
-  <updated>2024-04-20T12:53:33.892Z</updated>
+  <updated>2024-04-20T13:32:28.468Z</updated>
   <id>https://chuishen.xyz/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>访谈（二）：天体物理与蔷薇十字</title>
+    <link href="https://chuishen.xyz/01/InvisibleInkTwo.html"/>
+    <id>https://chuishen.xyz/01/InvisibleInkTwo.html</id>
+    <published>2024-04-20T13:00:21.000Z</published>
+    <updated>2024-04-20T13:32:28.468Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;简要来说，这个系列是我与本校同学们的访谈。这次访谈是在天体物理社建立之后，我与天体物理社社长 Jesse 的访谈。有轻微删改，发布前已征求对方同意。</summary>
+    
+    
+    
+    
+    <category term="无形学会" scheme="https://chuishen.xyz/tags/%E6%97%A0%E5%BD%A2%E5%AD%A6%E4%BC%9A/"/>
+    
+    <category term="访谈" scheme="https://chuishen.xyz/tags/%E8%AE%BF%E8%B0%88/"/>
+    
+  </entry>
   
   <entry>
     <title>访谈（一）：怀旧情结与梦核美学</title>
@@ -394,25 +413,6 @@
     
     
     <category term="文学" scheme="https://chuishen.xyz/tags/%E6%96%87%E5%AD%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>十三而立</title>
-    <link href="https://chuishen.xyz/01/Thirteen.html"/>
-    <id>https://chuishen.xyz/01/Thirteen.html</id>
-    <published>2022-08-23T09:20:41.000Z</published>
-    <updated>2024-03-16T13:19:43.567Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;序&quot;&gt;&lt;a href=&quot;#序&quot; class=&quot;headerlink&quot; title=&quot;序&quot;&gt;&lt;/a&gt;序&lt;/h2&gt;&lt;p&gt;「当时我有着许多非凡的欲望，我最近才明白这只是梦中的呓语。等到看到童年的尽头时，我才恍然大悟，原来人不是想做什么就做什么。在人的一生中，有着无穷尽的选择题，然而在现实向你抛来的责任面前，人总是没有选择的。」&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="写作" scheme="https://chuishen.xyz/tags/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="十三而立" scheme="https://chuishen.xyz/tags/%E5%8D%81%E4%B8%89%E8%80%8C%E7%AB%8B/"/>
     
   </entry>
   
