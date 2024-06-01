@@ -552,7 +552,7 @@
     
     
     <entry>
-      <title>利用Flask和ffmpeg制作简单的音乐转换器</title>
+      <title>利用 Flask 和 FFmpeg 制作简单的音乐转换器</title>
       <link href="/01/FlaskAudio.html"/>
       <url>/01/FlaskAudio.html</url>
       
@@ -573,7 +573,7 @@
     
     
     <entry>
-      <title>利用Flask和Captcha制作简单的验证码生成器</title>
+      <title>利用 Flask 和 Captcha 制作简单的验证码生成器</title>
       <link href="/01/FlaskCaptcha.html"/>
       <url>/01/FlaskCaptcha.html</url>
       
