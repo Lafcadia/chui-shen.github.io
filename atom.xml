@@ -129,7 +129,7 @@
     <link href="https://chuishen.xyz/01/InvisibleInkOne.html"/>
     <id>https://chuishen.xyz/01/InvisibleInkOne.html</id>
     <published>2024-04-20T12:16:11.000Z</published>
-    <updated>2024-04-20T12:53:33.892Z</updated>
+    <updated>2024-04-20T13:02:34.554Z</updated>
     
     
     <summary type="html">&lt;p&gt;简要来说，这个系列是我与本校同学们的访谈。这次访谈是我在听了本校书籍影像社的公开课《梦核美学》后，为了对于这种美学有着更深入的了解，与社团成员 Branny 进行的一次线上交流。有轻微删改，发布前已征求对方同意。</summary>
@@ -140,6 +140,32 @@
     <category term="无形学会" scheme="https://chuishen.xyz/tags/%E6%97%A0%E5%BD%A2%E5%AD%A6%E4%BC%9A/"/>
     
     <category term="访谈" scheme="https://chuishen.xyz/tags/%E8%AE%BF%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>人生思考者 Life Thinker</title>
+    <link href="https://chuishen.xyz/01/LifeThinker.html"/>
+    <id>https://chuishen.xyz/01/LifeThinker.html</id>
+    <published>2024-03-24T04:01:00.000Z</published>
+    <updated>2024-06-01T08:01:50.396Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;闲着没事画了一个个性签名。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://chuishen.xyz/LifeThinker3.0.png&quot; alt=&quot;Life Thinker</summary>
+        
+      
+    
+    
+    
+    
+    <category term="关于我自己" scheme="https://chuishen.xyz/tags/%E5%85%B3%E4%BA%8E%E6%88%91%E8%87%AA%E5%B7%B1/"/>
+    
+    <category term="无聊" scheme="https://chuishen.xyz/tags/%E6%97%A0%E8%81%8A/"/>
     
   </entry>
   
@@ -167,32 +193,6 @@
     <category term="写作" scheme="https://chuishen.xyz/tags/%E5%86%99%E4%BD%9C/"/>
     
     <category term="关于我自己" scheme="https://chuishen.xyz/tags/%E5%85%B3%E4%BA%8E%E6%88%91%E8%87%AA%E5%B7%B1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>人生思考者 Life Thinker</title>
-    <link href="https://chuishen.xyz/01/LifeThinker.html"/>
-    <id>https://chuishen.xyz/01/LifeThinker.html</id>
-    <published>2024-03-24T04:01:00.000Z</published>
-    <updated>2024-06-01T08:01:50.396Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;闲着没事画了一个个性签名。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://chuishen.xyz/LifeThinker3.0.png&quot; alt=&quot;Life Thinker</summary>
-        
-      
-    
-    
-    
-    
-    <category term="关于我自己" scheme="https://chuishen.xyz/tags/%E5%85%B3%E4%BA%8E%E6%88%91%E8%87%AA%E5%B7%B1/"/>
-    
-    <category term="无聊" scheme="https://chuishen.xyz/tags/%E6%97%A0%E8%81%8A/"/>
     
   </entry>
   
