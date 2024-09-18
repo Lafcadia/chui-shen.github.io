@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Lafcadia&#39;s Blog</title>
+  <title>寂寞沙洲冷</title>
   <icon>https://chuishen.xyz/icon.png</icon>
   <subtitle>心绪如风一样流转，留不下一丝痕迹</subtitle>
   <link href="https://chuishen.xyz/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://chuishen.xyz/</id>
   
   <author>
-    <name>Lafcadia</name>
+    <name>氿月</name>
     
   </author>
   
