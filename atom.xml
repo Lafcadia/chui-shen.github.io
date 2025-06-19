@@ -6,7 +6,7 @@
   <link href="https://chuishen.xyz/atom.xml" rel="self"/>
   
   <link href="https://chuishen.xyz/"/>
-  <updated>2025-06-18T13:10:01.269Z</updated>
+  <updated>2025-06-19T06:38:51.384Z</updated>
   <id>https://chuishen.xyz/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于 Minecraft ARG 的一些想法</title>
+    <link href="https://chuishen.xyz/01/OpinionsOnMCARG.html"/>
+    <id>https://chuishen.xyz/01/OpinionsOnMCARG.html</id>
+    <published>2025-06-18T12:41:25.000Z</published>
+    <updated>2025-06-19T06:38:51.384Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;定义&quot;&gt;&lt;a href=&quot;#定义&quot; class=&quot;headerlink&quot; title=&quot;定义&quot;&gt;&lt;/a&gt;定义&lt;/h2&gt;&lt;p&gt;另类实境游戏（全称：Alternate reality</summary>
+        
+      
+    
+    
+    
+    
+    <category term="写作" scheme="https://chuishen.xyz/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="随笔" scheme="https://chuishen.xyz/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="关于我自己" scheme="https://chuishen.xyz/tags/%E5%85%B3%E4%BA%8E%E6%88%91%E8%87%AA%E5%B7%B1/"/>
+    
+    <category term="杂文" scheme="https://chuishen.xyz/tags/%E6%9D%82%E6%96%87/"/>
+    
+  </entry>
   
   <entry>
     <title>佛州奇闻</title>
@@ -307,11 +336,11 @@
   </entry>
   
   <entry>
-    <title>访谈（二）：天体物理与蔷薇十字</title>
+    <title>访谈（二）</title>
     <link href="https://chuishen.xyz/01/InvisibleInkTwo.html"/>
     <id>https://chuishen.xyz/01/InvisibleInkTwo.html</id>
     <published>2024-04-20T13:00:21.000Z</published>
-    <updated>2024-04-20T13:32:28.468Z</updated>
+    <updated>2025-06-19T01:56:59.421Z</updated>
     
     
     <summary type="html">&lt;p&gt;简要来说，这个系列是我与本校同学们的访谈。这次访谈是在天体物理社建立之后，我与天体物理社社长 Jesse 的访谈。有轻微删改，发布前已征求对方同意。</summary>
@@ -402,7 +431,7 @@
     <link href="https://chuishen.xyz/01/ArcadianShepherd.html"/>
     <id>https://chuishen.xyz/01/ArcadianShepherd.html</id>
     <published>2024-03-24T02:23:28.000Z</published>
-    <updated>2024-03-24T02:58:42.627Z</updated>
+    <updated>2025-06-19T01:58:53.319Z</updated>
     
     
     <summary type="html">&lt;p&gt;“列车到站了，先生，欢迎来到阿卡迪亚。”乘务员走进包厢，向詹森·汉弗莱鞠了一躬。&lt;/p&gt;
@@ -435,30 +464,6 @@
     <category term="Python" scheme="https://chuishen.xyz/tags/Python/"/>
     
     <category term="编程" scheme="https://chuishen.xyz/tags/%E7%BC%96%E7%A8%8B/"/>
-    
-    <category term="Minecraft" scheme="https://chuishen.xyz/tags/Minecraft/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>脚本哲学(1) Minecraft 服务器区块与备份脚本</title>
-    <link href="https://chuishen.xyz/01/PhiloScriptPart1.html"/>
-    <id>https://chuishen.xyz/01/PhiloScriptPart1.html</id>
-    <published>2024-03-16T10:42:30.000Z</published>
-    <updated>2024-03-24T04:12:20.463Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;开始之前&quot;&gt;&lt;a href=&quot;#开始之前&quot; class=&quot;headerlink&quot; title=&quot;开始之前&quot;&gt;&lt;/a&gt;开始之前&lt;/h2&gt;&lt;p&gt;我好久没写技术类的推文了，原因很简单，我有些跟不上大伙的节奏，我技术力过于低下。但仔细想想，发一些技术文章还是可以精进自己的技术的，于是便打算重新开始，于是就有了这么一个新系列，叫做“脚本哲学”。&lt;/p&gt;
-&lt;p&gt;另外，在最新的决定中，我将这个博客分为了三个网站，一个是本站，主要发技术文章；一个是 &lt;a href=&quot;https://legacy.chuishen.xyz/&quot;&gt;Legacy&lt;/a&gt;，是旧物的堆积地；以及 &lt;a href=&quot;https://memoria.top/&quot;&gt;Memoria&lt;/a&gt; ，是我与远冬的文学博客。《御伽之国的鬼岛》《白银树之恋》等文章已被迁至 Legacy。《日记八集》中的部分篇目，已被永久删除。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="Python" scheme="https://chuishen.xyz/tags/Python/"/>
-    
-    <category term="编程" scheme="https://chuishen.xyz/tags/%E7%BC%96%E7%A8%8B/"/>
-    
-    <category term="关于我自己" scheme="https://chuishen.xyz/tags/%E5%85%B3%E4%BA%8E%E6%88%91%E8%87%AA%E5%B7%B1/"/>
     
     <category term="Minecraft" scheme="https://chuishen.xyz/tags/Minecraft/"/>
     
