@@ -6,7 +6,7 @@
   <link href="https://chuishen.xyz/atom.xml" rel="self"/>
   
   <link href="https://chuishen.xyz/"/>
-  <updated>2025-06-20T03:49:49.373Z</updated>
+  <updated>2025-06-20T14:38:06.388Z</updated>
   <id>https://chuishen.xyz/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>别杭外</title>
+    <link href="https://chuishen.xyz/01/FarewellToHFLS.html"/>
+    <id>https://chuishen.xyz/01/FarewellToHFLS.html</id>
+    <published>2025-06-22T13:42:22.000Z</published>
+    <updated>2025-06-20T14:38:06.388Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;月隐入星海，北斗遁云中。&lt;br&gt;折柳发人心绪，故地又秋风。&lt;br&gt;我欲梦越天山，渡越若水之寒。&lt;br&gt;凄清幽宵暗。雨凝血成冰，叶凋落零零。&lt;br&gt;夜无眠，欲失念，犹留恋。&lt;br&gt;独守寂夜，空枕落寞卷入帘。&lt;br&gt;绽灭凋落有日，生离死别有期。&lt;br&gt;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="编程" scheme="https://chuishen.xyz/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="随笔" scheme="https://chuishen.xyz/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="关于我自己" scheme="https://chuishen.xyz/tags/%E5%85%B3%E4%BA%8E%E6%88%91%E8%87%AA%E5%B7%B1/"/>
+    
+    <category term="杂文" scheme="https://chuishen.xyz/tags/%E6%9D%82%E6%96%87/"/>
+    
+  </entry>
   
   <entry>
     <title>假使在夏夜，一个伶人</title>
@@ -438,27 +468,6 @@
     <category term="写作" scheme="https://chuishen.xyz/tags/%E5%86%99%E4%BD%9C/"/>
     
     <category term="明治十七" scheme="https://chuishen.xyz/tags/%E6%98%8E%E6%B2%BB%E5%8D%81%E4%B8%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>脚本哲学(2) WaterMello, 一款壬性化的《合成大西瓜》启动器</title>
-    <link href="https://chuishen.xyz/01/PhiloScriptPart2.html"/>
-    <id>https://chuishen.xyz/01/PhiloScriptPart2.html</id>
-    <published>2024-03-16T10:43:00.000Z</published>
-    <updated>2024-03-16T13:27:50.587Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;我们学校有一款由某位已经离校的学长开发的，基于《合成大西瓜》代码的，名为“合成校长”的游戏，风靡一时。许多人想要制作一个自定义版本。于是我就决定把这个当作一个脚本来写。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="Python" scheme="https://chuishen.xyz/tags/Python/"/>
-    
-    <category term="编程" scheme="https://chuishen.xyz/tags/%E7%BC%96%E7%A8%8B/"/>
-    
-    <category term="Minecraft" scheme="https://chuishen.xyz/tags/Minecraft/"/>
     
   </entry>
   
