@@ -4,17 +4,17 @@
 
     <sitemap>
         <loc>https://chuishen.xyz/post-sitemap.xml</loc>
-        <lastmod>2025-08-08T13:34:19.898Z</lastmod>
-    </sitemap>
-
-    <sitemap>
-        <loc>https://chuishen.xyz/page-sitemap.xml</loc>
         <lastmod>2025-08-12T02:33:28.974Z</lastmod>
     </sitemap>
 
     <sitemap>
+        <loc>https://chuishen.xyz/page-sitemap.xml</loc>
+        <lastmod>2025-08-08T08:58:31.931Z</lastmod>
+    </sitemap>
+
+    <sitemap>
         <loc>https://chuishen.xyz/tag-sitemap.xml</loc>
-        <lastmod>2025-08-08T13:34:19.898Z</lastmod>
+        <lastmod>2025-08-12T02:33:28.974Z</lastmod>
     </sitemap>
 
 </sitemapindex>
