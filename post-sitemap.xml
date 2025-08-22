@@ -9,6 +9,30 @@
 
 
     <url>
+        <loc>https://chuishen.xyz/01/WarmthOfWind.html</loc>
+        <lastmod>2025-08-22T01:08:55.511Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://chuishen.xyz/01/MyFavSongs.html</loc>
+        <lastmod>2025-08-18T05:51:18.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://chuishen.xyz/01/LifeThinker.html</loc>
+        <lastmod>2025-08-18T05:50:57.180Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://chuishen.xyz/01/MrTambourineMan.html</loc>
         <lastmod>2025-08-12T02:33:28.974Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -219,22 +243,6 @@
     <url>
         <loc>https://chuishen.xyz/01/MirrorsOnTheCeiling.html</loc>
         <lastmod>2024-09-16T01:57:24.530Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://chuishen.xyz/01/MyFavSongs.html</loc>
-        <lastmod>2024-07-13T14:44:27.764Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://chuishen.xyz/01/LifeThinker.html</loc>
-        <lastmod>2024-06-01T08:01:50.396Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
