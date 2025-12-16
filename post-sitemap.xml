@@ -9,6 +9,70 @@
 
 
     <url>
+        <loc>https://chuishen.xyz/01/FreeAsHell.html</loc>
+        <lastmod>2025-12-16T10:30:24.004Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://chuishen.xyz/01/FromCaliforniaToKashima.html</loc>
+        <lastmod>2025-12-16T10:29:57.126Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://chuishen.xyz/01/IronFists.html</loc>
+        <lastmod>2025-12-16T10:29:48.846Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://chuishen.xyz/01/ForbiddenColor.html</loc>
+        <lastmod>2025-12-16T10:29:15.991Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://chuishen.xyz/01/If-On-Midsummers-Night-A-Player.html</loc>
+        <lastmod>2025-12-16T10:27:58.191Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://chuishen.xyz/01/ManInACase.html</loc>
+        <lastmod>2025-12-16T10:26:52.845Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://chuishen.xyz/01/GreyCyanide.html</loc>
+        <lastmod>2025-12-16T10:26:02.985Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://chuishen.xyz/01/ThreeScarletSubmarines.html</loc>
+        <lastmod>2025-12-16T10:15:25.688Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://chuishen.xyz/01/ASaucerfulOfSecrets.html</loc>
         <lastmod>2025-10-27T07:05:37.504Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -49,14 +113,6 @@
     </url>
 
     <url>
-        <loc>https://chuishen.xyz/01/If-On-Midsummers-Night-A-Player.html</loc>
-        <lastmod>2025-08-30T04:49:01.823Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://chuishen.xyz/01/FoggyRuins.html</loc>
         <lastmod>2025-08-28T01:46:28.847Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -75,14 +131,6 @@
     <url>
         <loc>https://chuishen.xyz/01/BlackDiamond.html</loc>
         <lastmod>2025-08-25T12:36:36.505Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://chuishen.xyz/01/FromCaliforniaToKashima.html</loc>
-        <lastmod>2025-08-25T04:58:17.245Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -113,24 +161,8 @@
     </url>
 
     <url>
-        <loc>https://chuishen.xyz/01/ForbiddenColor.html</loc>
-        <lastmod>2025-08-25T04:58:02.637Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://chuishen.xyz/01/BranchesInMyBrain.html</loc>
         <lastmod>2025-08-25T04:57:59.788Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://chuishen.xyz/01/IronFists.html</loc>
-        <lastmod>2025-08-25T04:57:56.744Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -411,14 +443,6 @@
     <url>
         <loc>https://chuishen.xyz/01/GUIedRandom.html</loc>
         <lastmod>2024-03-16T13:18:21.641Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://chuishen.xyz/01/FreeAsHell.html</loc>
-        <lastmod>2024-03-16T13:18:15.579Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

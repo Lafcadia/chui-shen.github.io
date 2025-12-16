@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>寂白沙洲冷</title>
+  <title>Dalvey Underground</title>
   <icon>https://chuishen.xyz/icon.png</icon>
   <subtitle>心绪如风一样流转，留不下一丝痕迹</subtitle>
   <link href="https://chuishen.xyz/atom.xml" rel="self"/>
   
   <link href="https://chuishen.xyz/"/>
-  <updated>2025-10-27T07:05:37.504Z</updated>
+  <updated>2025-12-16T10:15:25.688Z</updated>
   <id>https://chuishen.xyz/</id>
   
   <author>
@@ -15,6 +15,122 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Three Scarlet Submarines (三艘深红潜艇)</title>
+    <link href="https://chuishen.xyz/01/ThreeScarletSubmarines.html"/>
+    <id>https://chuishen.xyz/01/ThreeScarletSubmarines.html</id>
+    <published>2025-12-16T10:12:16.000Z</published>
+    <updated>2025-12-16T10:15:25.688Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Above the frigid seabed where the sunlight could not reach, Three Scarlet Submarines move slowly. Nothing could be seen in their windows other than the infinity of water and rocky edges. They were sent on a forgotten mission by a bureaucracy that ceased to exist shortly after the mission was given. Every aspect of their story could be debated. Except for the colour of the ships, perhaps, that’s why they were called “Three Scarlet Submarines.”&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="写作" scheme="https://chuishen.xyz/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="正确的中肯的一针见血的" scheme="https://chuishen.xyz/tags/%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%B8%AD%E8%82%AF%E7%9A%84%E4%B8%80%E9%92%88%E8%A7%81%E8%A1%80%E7%9A%84/"/>
+    
+    <category term="随笔" scheme="https://chuishen.xyz/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="关于我自己" scheme="https://chuishen.xyz/tags/%E5%85%B3%E4%BA%8E%E6%88%91%E8%87%AA%E5%B7%B1/"/>
+    
+    <category term="无聊" scheme="https://chuishen.xyz/tags/%E6%97%A0%E8%81%8A/"/>
+    
+    <category term="杂文" scheme="https://chuishen.xyz/tags/%E6%9D%82%E6%96%87/"/>
+    
+    <category term="Meta" scheme="https://chuishen.xyz/tags/Meta/"/>
+    
+    <category term="同人文" scheme="https://chuishen.xyz/tags/%E5%90%8C%E4%BA%BA%E6%96%87/"/>
+    
+    <category term="切尔西花园" scheme="https://chuishen.xyz/tags/%E5%88%87%E5%B0%94%E8%A5%BF%E8%8A%B1%E5%9B%AD/"/>
+    
+    <category term="一碟秘密" scheme="https://chuishen.xyz/tags/%E4%B8%80%E7%A2%9F%E7%A7%98%E5%AF%86/"/>
+    
+    <category term="English" scheme="https://chuishen.xyz/tags/English/"/>
+    
+    <category term="英语" scheme="https://chuishen.xyz/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+    <category term="寓言" scheme="https://chuishen.xyz/tags/%E5%AF%93%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>套子人</title>
+    <link href="https://chuishen.xyz/01/ManInACase.html"/>
+    <id>https://chuishen.xyz/01/ManInACase.html</id>
+    <published>2025-12-15T10:05:19.000Z</published>
+    <updated>2025-12-16T10:26:52.845Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;(谨以三篇关于一位“套子人”的，返璞归真的寓言或者段子，致敬我最敬爱的三位老师，&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;短篇巨匠契诃夫，&lt;/li&gt;
+&lt;li&gt;政治教师冉阿让，&lt;/li&gt;
+&lt;li&gt;哲学教授郭继承。)&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    
+    <category term="写作" scheme="https://chuishen.xyz/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="正确的中肯的一针见血的" scheme="https://chuishen.xyz/tags/%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%B8%AD%E8%82%AF%E7%9A%84%E4%B8%80%E9%92%88%E8%A7%81%E8%A1%80%E7%9A%84/"/>
+    
+    <category term="随笔" scheme="https://chuishen.xyz/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="关于我自己" scheme="https://chuishen.xyz/tags/%E5%85%B3%E4%BA%8E%E6%88%91%E8%87%AA%E5%B7%B1/"/>
+    
+    <category term="无聊" scheme="https://chuishen.xyz/tags/%E6%97%A0%E8%81%8A/"/>
+    
+    <category term="杂文" scheme="https://chuishen.xyz/tags/%E6%9D%82%E6%96%87/"/>
+    
+    <category term="同人文" scheme="https://chuishen.xyz/tags/%E5%90%8C%E4%BA%BA%E6%96%87/"/>
+    
+    <category term="切尔西花园" scheme="https://chuishen.xyz/tags/%E5%88%87%E5%B0%94%E8%A5%BF%E8%8A%B1%E5%9B%AD/"/>
+    
+    <category term="一碟秘密" scheme="https://chuishen.xyz/tags/%E4%B8%80%E7%A2%9F%E7%A7%98%E5%AF%86/"/>
+    
+    <category term="寓言" scheme="https://chuishen.xyz/tags/%E5%AF%93%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>灰色与青</title>
+    <link href="https://chuishen.xyz/01/GreyCyanide.html"/>
+    <id>https://chuishen.xyz/01/GreyCyanide.html</id>
+    <published>2025-12-03T10:17:19.000Z</published>
+    <updated>2025-12-16T10:26:02.985Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;(倘如阅读过前作，可能对此作理解更佳，但严格地说，也没有那么重要。)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ice Blue Silver Sky&lt;br&gt;Fade into Grey&lt;br&gt;In a Grey Hope that All Yearns to Be&lt;br&gt;Starless and Bible-Black&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;(播放克里姆森国王的《Starless》以引入，声音较小，并模糊化人声)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;·第一个声音·&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(平静而抒情地说，仿佛是在怀念什么已经失去的东西。)&lt;/p&gt;
+&lt;p&gt;我抑制不住对他的想念，当然了，到一个特定的年纪，人们都会想念过往的一切；特别是像我现在这样，处于由欲望编织的舶来之城之中的。我想念将听到我这番话的所有人，我熟悉的挚友，我已经生分的朋友，还未谋过面的朋伴，在陌生的街角处擦肩而过的陌生人……但我坚定地认为我对他的想念，和我对他人的想念不一样。你不信？其实我宁愿不是如此。我就与你讲讲他吧。&lt;/p&gt;
+&lt;p&gt;回忆是一件很痛苦的事，回顾几年前干的蠢事的时候，你也会和我一样头疼的。主要倒不是意识到这些事情有多蠢，而是在于意识到这些蠢事对自己有多重要，倘若没有这些蠢事，我们就不会是今天的自己。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="写作" scheme="https://chuishen.xyz/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="随笔" scheme="https://chuishen.xyz/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="关于我自己" scheme="https://chuishen.xyz/tags/%E5%85%B3%E4%BA%8E%E6%88%91%E8%87%AA%E5%B7%B1/"/>
+    
+    <category term="最中幻想" scheme="https://chuishen.xyz/tags/%E6%9C%80%E4%B8%AD%E5%B9%BB%E6%83%B3/"/>
+    
+    <category term="Meta" scheme="https://chuishen.xyz/tags/Meta/"/>
+    
+    <category term="广播剧" scheme="https://chuishen.xyz/tags/%E5%B9%BF%E6%92%AD%E5%89%A7/"/>
+    
+  </entry>
   
   <entry>
     <title>一碟秘密</title>
@@ -404,16 +520,11 @@
     <link href="https://chuishen.xyz/01/If-On-Midsummers-Night-A-Player.html"/>
     <id>https://chuishen.xyz/01/If-On-Midsummers-Night-A-Player.html</id>
     <published>2025-06-19T23:21:00.000Z</published>
-    <updated>2025-08-30T04:49:01.823Z</updated>
+    <updated>2025-12-16T10:27:58.191Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;strong&gt;我并不认为我在人生中的任何一个时刻进行过任何形式的小说创作。于我而言，这些文字只是对于伊塔洛·卡尔维诺《寒冬夜行人》的致敬。倘若这份致敬让你对阅读卡尔维诺有了兴趣，那可太好了，把这份毫无营养的作品放下去读卡尔维诺吧。倘若这份致敬起到了反作用，还是恳求任何一个</summary>
-        
-      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;我并不认为我在人生中的任何一个时刻进行过任何形式的小说创作。于我而言，这些文字只是对于伊塔洛·卡尔维诺《寒冬夜行人》的致敬。倘若这份致敬让你对阅读卡尔维诺有了兴趣，那可太好了，把这份毫无营养的作品放下去读卡尔维诺吧。倘若这份致敬起到了反作用，还是恳求任何一个能够阅读的人阅读《寒冬夜行人》（或《假如在冬夜，一个旅人》）。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;关于这份剧本，作者的理解是这是一份应付之作，即没有必要做得很出色（毕竟做得出色已经超出了本作者的能力范围）。作为一份应付高中电影节的微电影剧本，我想象不到这部作品会需要多高的竞争力，尤其是剧本。剧本写的不好没有人会关心，反正真的没有人关心剧情。这种“微电影”的本质不过是横版短视频，学生评委们在这种时候估计也是睡觉居多。真正的重担应该在导演、后期、制片人，尤其是摄影师身上。我敢说，要是评奖失败了，没有人会怪编剧，因为剧情谁都看不懂，自然没有批判的余地。但是摄影师要是搞那种宝莱坞运镜，大伙可都是看得出来的。倘若你在读这份剧本，摄影师，我希望你能够理解你身上的重担，并且怀着悲怆的心情读完以下的正文。&lt;/em&gt;&lt;/p&gt;</summary>
     
     
     
@@ -476,70 +587,6 @@
     <category term="无聊" scheme="https://chuishen.xyz/tags/%E6%97%A0%E8%81%8A/"/>
     
     <category term="杂文" scheme="https://chuishen.xyz/tags/%E6%9D%82%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>正直者之死</title>
-    <link href="https://chuishen.xyz/01/MorsJustorum.html"/>
-    <id>https://chuishen.xyz/01/MorsJustorum.html</id>
-    <published>2024-12-20T23:21:00.000Z</published>
-    <updated>2025-08-25T04:57:39.813Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;Part-2-正直者之死-Mors-Justorum&quot;&gt;&lt;a href=&quot;#Part-2-正直者之死-Mors-Justorum&quot; class=&quot;headerlink&quot; title=&quot;Part 2 正直者之死 Mors Justorum&quot;&gt;&lt;/a&gt;Part 2 正直者之死 Mors Justorum&lt;/h2&gt;&lt;h3 id=&quot;Duel&quot;&gt;&lt;a href=&quot;#Duel&quot; class=&quot;headerlink&quot; title=&quot;Duel&quot;&gt;&lt;/a&gt;Duel&lt;/h3&gt;&lt;p&gt;一个黑色的影子，背着青白色的阳光在满是泥泞的路上行着，两侧是黑岩砌成的山壁，将青灰色的天空截定。有时云雾缭绕，遮住两侧的枯枝败叶和树上满挂着的尸体，挡住他的双眼，于是他伏在老马上，飞驰着在法兰西的山间行进。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="写作" scheme="https://chuishen.xyz/tags/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="妄谈" scheme="https://chuishen.xyz/tags/%E5%A6%84%E8%B0%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>明治十七·注释</title>
-    <link href="https://chuishen.xyz/01/AnnotationsOnMeiji17.html"/>
-    <id>https://chuishen.xyz/01/AnnotationsOnMeiji17.html</id>
-    <published>2024-10-25T23:21:00.000Z</published>
-    <updated>2025-08-25T04:57:42.407Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;划过夜空的流星，受花香引诱而飞舞的蝴蝶，流向低处的河水，深邃黑暗的浓雾。&lt;/p&gt;
-&lt;p&gt;自然界发生的事情都有其各自的道理。人类为了证明自己能够说明这些道理进而捏造出种种理由。&lt;/p&gt;
-&lt;p&gt;映入眼帘的这一切，都将为人类所有……本来应该是如此的。&lt;/p&gt;
-&lt;p&gt;——雾雨魔理沙，&lt;em&gt;Grimoire of Marisa&lt;/em&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="写作" scheme="https://chuishen.xyz/tags/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="明治十七" scheme="https://chuishen.xyz/tags/%E6%98%8E%E6%B2%BB%E5%8D%81%E4%B8%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>水上烟花</title>
-    <link href="https://chuishen.xyz/01/SmokeOnTheWater.html"/>
-    <id>https://chuishen.xyz/01/SmokeOnTheWater.html</id>
-    <published>2024-10-17T23:21:00.000Z</published>
-    <updated>2025-08-25T04:57:46.123Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;入夜尚未深，上弦月便已高悬在京都的夜空，乌云也很识趣地散开。少年少女们结伴穿过街头巷尾，走过三条大桥之后再各回各家。我还是一个学生的时候，经常在三条大桥看烟花，毕业了之后，我的记忆里这烟花便没有升空过了。我也犹疑过，或许在那几年后，这幸福的象征就被取消了，可能某一个一直为之筹款的富翁离世了，抑或是那个放烟花的人也已经过了欣赏烟花的年纪。当然更有可能的是，我不关心了。&lt;/p&gt;
-&lt;p&gt;确切地说，我不再关心了。起码那时我是很在乎的，我会在随身携带的本子里记下烟花升起的时间和最佳观赏点，然后在每一天放学后，在三条大桥写着作业，等着烟花出现，然后看它如何用其源自工业文明的光彩，让繁星学会谦卑；看它延展开曼妙的线条，在星空中做几何画；看它用存在超越造物者的想象，让少年少女们感到温暖，感到升腾，感到爱的热望；看它如何像一只被嵌在黑曜石里的蓝蝴蝶，在星月的注视下飞向远端，飞到我们看不到的地方。这就是我贫乏的想象力所能联想到的极限，没有人能理解我当初究竟在看什么。&lt;/p&gt;
-&lt;p&gt;那时候母亲为了我的学业陪我住在京都，我晚些回家，免不了她的责骂。那时我会找个借口，大多是与同学有约之类，反正搪塞过去就过去了。母亲知道我在外面有自己的社交，也不再说什么；但我其实没有，那些夜里只有我和烟花，还有永远写不完的作业。似乎还有她，在母亲不知道的夜里，我透过屏幕一直注视着她，那时候熬夜与压力无关，在无梦的清晨醒来的我只是感到年轻。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="写作" scheme="https://chuishen.xyz/tags/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="明治十七" scheme="https://chuishen.xyz/tags/%E6%98%8E%E6%B2%BB%E5%8D%81%E4%B8%83/"/>
-    
-    <category term="随笔" scheme="https://chuishen.xyz/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
